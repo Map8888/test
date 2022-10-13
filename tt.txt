@@ -1,3 +1,12 @@
-<?php
-  echo "hello";
-?>
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<?php
+	  echo "hello";
+	?>
+	<button><?php echo "ok"; ?></button>
+</body>
+</html>
